@@ -7,5 +7,5 @@ This repository contain code for data analysis on different datasets:
 4. Data Visualization
 5. Geospatial Analysis on Global Temperature 
 
-Using Pandas , Numpy , Matplotlib , Seabron 
+Using Pandas , Numpy , Matplotlib , Seabron ,Plotly , folium
 
